@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📚 I'm majoring in **`[Mechanical and Biomedical Engineering]`**
-- 💻 double-majoring in **`[Speicalized Program in Software Convergence]`**
+- 💻 double-majoring in **`[Specialized Program in Software Convergence]`**
 - 🚗 currently interested in **`[Artificial Intelligence, Image Processing]`**
 
 [![engineercha's GitHub stats](https://github-readme-stats.vercel.app/api?username=engineercha)](https://github.com/engineercha/github-readme-stats)
